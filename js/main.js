@@ -1,0 +1,1 @@
+function chooseOne(o){return o[Math.floor(Math.random()*o.length)]}var colors=["blue","black","navy","olive","red","fuchsia","purple","maroon",""];
